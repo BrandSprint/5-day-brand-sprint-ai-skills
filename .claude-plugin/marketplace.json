@@ -9,7 +9,7 @@
     {
       "name": "brandsprint",
       "source": "./plugins/brandsprint",
-      "description": "Ten skills, one per sprint phase, that read the sprint's Miro board, test every lock against the evidence, and write a report for the facilitator. Human creates. AI improves, tests, challenges, and guides."
+      "description": "Skills, one per sprint phase, that read the sprint's Miro board, test every lock against the evidence, and write a report for the facilitator. Human creates. AI improves, tests, challenges, and guides. v0.1 ships sprint-setup and sprint-day1; the remaining phases follow."
     }
   ]
 }
