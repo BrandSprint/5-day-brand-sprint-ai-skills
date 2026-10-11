@@ -1,0 +1,15 @@
+{
+  "name": "brandsprint",
+  "description": "AI Skills for the 5-Day BrandSprint. The facilitator's thinking partner between sessions.",
+  "owner": {
+    "name": "BrandSprint Europe",
+    "email": "office@brandsprint.com"
+  },
+  "plugins": [
+    {
+      "name": "brandsprint",
+      "source": "./plugins/brandsprint",
+      "description": "Skills, one per sprint phase, that read the sprint's Miro board, test every lock against the evidence, and write a report for the facilitator. Human creates. AI improves, tests, challenges, and guides. v0.1 ships sprint-setup and sprint-day1; the remaining phases follow."
+    }
+  ]
+}
