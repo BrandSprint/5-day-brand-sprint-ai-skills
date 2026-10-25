@@ -1,4 +1,4 @@
-# BrandSprint AI Skills
+# 5-Day Brand Strategy Sprint AI Plugin/Skills
 
 AI Skills for the **5-Day Brand Strategy Sprint**. A plugin for Claude that turns the AI into the facilitator's thinking partner between sprint sessions: it reads the sprint's Miro board, tests every locked decision against the evidence walls and the method's own rules, and writes a report. It never writes the brand platform.
 
