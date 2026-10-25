@@ -1,6 +1,6 @@
 {
   "name": "brandsprint",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "AI Skills for the 5-Day BrandSprint. Run by the facilitator between sessions: reads the sprint's Miro board, tests every lock against the evidence walls and the method's own rules, and writes a report. Never writes the platform.",
   "author": {
     "name": "BrandSprint Europe",
@@ -8,5 +8,11 @@
     "url": "https://www.brandsprint.com"
   },
   "homepage": "https://www.brandsprint.com",
-  "keywords": ["brand strategy", "brandsprint", "facilitation", "miro", "workshop"]
+  "keywords": [
+    "brand strategy",
+    "brandsprint",
+    "facilitation",
+    "miro",
+    "workshop"
+  ]
 }
